@@ -37,8 +37,8 @@
 <h3 align="center">🎈 More 🎈</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://agfalcon.tistory.com"/></a>
-<img src="https://img.shields.io/badge/Portfolio--00599C?style=flat-square&logo=Vimeo&logoColor=white&link=https://agfalcon.github.io"/></a>
+<img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://agfalcon.tistory.com"/></a>
+<img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://agfalcon.github.io"/></a>
 </p>
 
 
