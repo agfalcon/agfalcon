@@ -1,3 +1,7 @@
+
+
+<img src="https://img.shields.io/badge#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agfalcon&exclude_repo=MetaUniversity)
 
 
