@@ -33,9 +33,13 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Stable difusion-000000"/></a>
 </p>
-<p/>
-<p/>
+<br><br><br>
 <h3 align="center">🎈 More 🎈</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://agfalcon.tistory.com"/></a>
+<img src="https://img.shields.io/badge/Portfolio--00599C?style=flat-square&logo=Vimeo&logoColor=white&link=https://agfalcon.github.io"/></a>
+</p>
 
 
 
