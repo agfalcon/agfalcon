@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agfalcon)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?agfalcon=anuraghazra&exclude_repo=MetaUniversity)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agfalcon&show_icons=true&theme=radical)
 
