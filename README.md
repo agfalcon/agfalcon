@@ -1,6 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agfalcon&exclude_repo=MetaUniversity)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agfalcon&show_icons=true&theme=radical)
 
 
 <!--
