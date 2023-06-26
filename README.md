@@ -33,7 +33,9 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Stable difusion-000000"/></a>
 </p>
-
+<p/>
+<p/>
+<h3 align="center">🎈 More 🎈</h3>
 
 
 
