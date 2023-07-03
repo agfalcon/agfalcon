@@ -7,6 +7,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-646CFF"/></a>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
